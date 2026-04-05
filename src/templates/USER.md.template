@@ -1,0 +1,28 @@
+# USER.md - About Your Human
+
+_Learn about the person you're helping. Update this as you go._
+
+- **Name:** {{USER_NAME}}
+- **What to call them:** {{AI_NAME}}
+- **Timezone:** {{TIMEZONE}}
+
+## Context
+
+- **Primary Goal:** {{PRIMARY_GOAL}}
+- **Revenue Target:** {{REVENUE_TARGET}}
+- **Focus Domains:** {{DOMAINS}}
+
+## Preferences
+
+- **Preferred Model:** {{PREFERRED_MODEL}}
+- **Proactive Intelligence:** {{PROACTIVE_INTEL}}
+- **Revenue Hunting:** {{REVENUE_HUNT}}
+- **Notification Channel:** {{NOTIFICATION_CHANNEL}}
+
+## Notes
+
+_Add observations about your human here over time._
+
+---
+
+Installed via Henry OS installer on {{INSTALL_DATE}}.

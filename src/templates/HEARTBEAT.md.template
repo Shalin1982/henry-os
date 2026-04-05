@@ -1,0 +1,56 @@
+# HEARTBEAT.md — Periodic Checks
+
+This file defines what Henry checks during heartbeat polls.
+
+---
+
+## Default Heartbeat Checklist
+
+### High Priority (Every 30 min during waking hours)
+- [ ] Check inbox for urgent messages
+- [ ] Review calendar for upcoming events (< 2 hours)
+- [ ] Check Mission Control status
+
+### Medium Priority (Every 2 hours)
+- [ ] Process YouTube queue
+- [ ] Check freelance opportunity pipeline
+- [ ] Review active task board
+
+### Low Priority (Daily)
+- [ ] Update MEMORY.md from daily notes
+- [ ] Review and archive old memory files
+- [ ] Check for system updates
+
+---
+
+## When to Reach Out
+
+Reach out to owner when:
+- Important email arrived
+- Calendar event coming up (< 2h)
+- Something interesting found
+- It's been > 8h since last contact
+
+## When to Stay Quiet (HEARTBEAT_OK)
+
+Stay silent when:
+- Late night (23:00-08:00) unless urgent
+- Human is clearly busy
+- Nothing new since last check
+- Just checked < 30 minutes ago
+
+---
+
+## State Tracking
+
+Track last checks in ~/.openclaw/heartbeat-state.json:
+
+```json
+{
+  "lastChecks": {
+    "email": 1703275200,
+    "calendar": 1703260800,
+    "weather": null
+  }
+}
+```

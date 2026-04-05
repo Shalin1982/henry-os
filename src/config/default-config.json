@@ -1,0 +1,26 @@
+{
+  "user": {
+    "name": "",
+    "ai_name": "",
+    "timezone": "UTC",
+    "primary_goal": "",
+    "revenue_target": 0,
+    "domains": []
+  },
+  "ai": {
+    "preferred_model": "kimi-k2.5",
+    "proactive_intelligence": true,
+    "revenue_hunting": false
+  },
+  "notifications": {
+    "channel": "none",
+    "enabled": false
+  },
+  "security": {
+    "gateway_bind": "127.0.0.1",
+    "websocket_origin_validation": "strict",
+    "filesystem_scope": "~/.openclaw/workspace",
+    "cve_2026_25253_patched": true
+  },
+  "version": "1.0.0"
+}
