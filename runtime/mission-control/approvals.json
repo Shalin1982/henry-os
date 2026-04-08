@@ -1,0 +1,137 @@
+{
+  "approvals": {
+    "content": [
+      {
+        "id": "tweet-1775562269",
+        "type": "twitter",
+        "title": "AI Agents Tweet",
+        "preview": "Just watched my AI Chief of Staff handle 6 hours of work in 20 minutes...",
+        "full_content": "Just watched my AI Chief of Staff handle 6 hours of work in 20 minutes.\n\nNot automation. Autonomy.\n\nThe difference? Automation follows rules. Autonomy makes decisions.\n\nHenry (my AI) just:\n• Analyzed 3 business opportunities\n• Drafted responses to 12 emails\n• Scheduled my week around deep work blocks\n• Flagged 2 urgent items I would've missed\n\nI didn't write a single line of code.\n\nJust described what I wanted. Henry figured out how.\n\nWe're not talking about the future. This is Tuesday.\n\n#AI #Automation #Entrepreneurship",
+        "word_count": 89,
+        "created_at": "2026-04-07T11:44:29Z",
+        "agent": "CONTENT",
+        "status": "approved",
+        "on_approve": "Posts immediately to X/Twitter, engagement tracked for 24h",
+        "approved_at": "2026-04-08T05:06:53.884Z",
+        "post_result": {
+          "success": true,
+          "url": "queued"
+        }
+      },
+      {
+        "id": "tweet-1775565870",
+        "type": "twitter",
+        "title": "AI Agents Tweet #2",
+        "preview": "The best founders I know aren't grinding 80 hours/week...",
+        "full_content": "The best founders I know aren't grinding 80 hours/week.\n\nThey're building systems that grind for them.\n\nMy system:\n• 6 AI agents working 24/7\n• Each specialized (research, content, code, finance)\n• I approve the important stuff\n• They execute everything else\n\nResult: 10x output, 1/10th the time.\n\nThe leverage isn't in working harder.\nIt's in building autonomous teams.\n\n#Founder #Leverage #AI",
+        "word_count": 67,
+        "created_at": "2026-04-07T12:44:30Z",
+        "agent": "CONTENT",
+        "status": "pending",
+        "on_approve": "Posts immediately to X/Twitter, engagement tracked for 24h"
+      },
+      {
+        "id": "tweet-1775569472",
+        "type": "twitter",
+        "title": "AI Agents Tweet #3",
+        "preview": "'AI will replace jobs' - Wrong. AI will replace tasks...",
+        "full_content": "'AI will replace jobs'\n\nWrong.\n\nAI will replace tasks.\n\nThe people who learn to delegate to AI will replace the people who don't.\n\nI don't compete with AI.\nI compete using AI.\n\nEvery task I automate is time I can spend on:\n• Strategy\n• Relationships\n• Creative work\n\nThe question isn't 'Will AI take my job?'\n\nIt's 'Am I learning to use AI before my competitor does?'\n\n#FutureOfWork #AI #Competition",
+        "word_count": 78,
+        "created_at": "2026-04-07T13:44:31Z",
+        "agent": "CONTENT",
+        "status": "pending",
+        "on_approve": "Posts immediately to X/Twitter, engagement tracked for 24h"
+      },
+      {
+        "id": "linkedin-1775562269",
+        "type": "linkedin",
+        "title": "AI Employees LinkedIn Post",
+        "preview": "I've been experimenting with AI agents that can actually run parts of my business...",
+        "full_content": "I've been experimenting with AI agents that can actually run parts of my business.\n\nNot chatbots. Not automation scripts. Autonomous agents that make decisions.\n\nHere's what surprised me:\n\nMost people think AI replaces humans. I've found the opposite.\n\nAI handles the repetitive, predictable work. This frees me up for the human stuff:\n→ Building relationships\n→ Strategic decisions  \n→ Creative problem-solving\n\nMy AI Chief of Staff (Henry) runs a team of 6 specialized agents:\n\n🔍 SCOUT - hunts opportunities\n🔨 BUILDER - writes code\n✍️ CONTENT - creates social posts\n📊 AXEL - manages finances\n🔒 KNOX - monitors security\n📚 RESEARCH - gathers intelligence\n\nI set the direction. They execute.\n\nThe result? I'm doing my best work with less burnout.\n\nThe future isn't AI vs humans. It's humans with AI vs humans without.\n\nWhich are you?\n\n#AI #Entrepreneurship #FutureOfWork #Automation",
+        "word_count": 156,
+        "created_at": "2026-04-07T11:44:29Z",
+        "agent": "CONTENT",
+        "status": "pending",
+        "on_approve": "Posts immediately to LinkedIn, comments monitored, replies drafted for approval"
+      },
+      {
+        "id": "linkedin-1775565871",
+        "type": "linkedin",
+        "title": "LinkedIn Post #2",
+        "preview": "The 40-hour workweek was designed for factories, not knowledge work...",
+        "full_content": "The 40-hour workweek was designed for factories, not knowledge work.\n\nYet most knowledge workers still structure their days like assembly line workers.\n\nHere's what I'm testing instead:\n\nDeep Work Blocks: 2-3 hour focused sessions\nAI Handles: Email triage, scheduling, research, content drafting\nHuman Time: Strategy, relationships, creative work\n\nThe goal isn't to work more hours.\nIt's to make every hour higher leverage.\n\nMy AI agents handle ~60% of my workload now.\n\nThat 60% used to drain my energy for the important 40%.\n\nNow I show up fully for the work that matters.\n\nQuestion for you: What percentage of your work could be delegated to AI?\n\n#Productivity #AI #WorkLifeBalance #Entrepreneurship",
+        "word_count": 134,
+        "created_at": "2026-04-07T12:44:31Z",
+        "agent": "CONTENT",
+        "status": "pending",
+        "on_approve": "Posts immediately to LinkedIn, comments monitored, replies drafted for approval"
+      },
+      {
+        "id": "linkedin-1775569472",
+        "type": "linkedin",
+        "title": "LinkedIn Post #3",
+        "preview": "I used to think AI would make work impersonal. The opposite happened...",
+        "full_content": "I used to think AI would make work impersonal.\n\nThe opposite happened.\n\nBy delegating repetitive tasks to AI, I have more time for the human parts of business:\n\n→ Long conversations with clients\n→ Mentoring team members\n→ Thinking deeply about strategy\n→ Actually being present in meetings\n\nThe irony: Using AI makes my work more human, not less.\n\nThe robots handle the robotic work.\nI handle the human work.\n\nIf you're worried about AI making business cold and transactional, consider this:\n\nMaybe AI frees us to be warmer and more relational than ever.\n\nWhat's your experience? Has AI created more space for human connection in your work?\n\n#AI #Leadership #HumanConnection #FutureOfWork",
+        "word_count": 122,
+        "created_at": "2026-04-07T13:44:32Z",
+        "agent": "CONTENT",
+        "status": "pending",
+        "on_approve": "Posts immediately to LinkedIn, comments monitored, replies drafted for approval"
+      }
+    ],
+    "code": [
+      {
+        "id": "build-polymarket-bot-001",
+        "type": "code",
+        "title": "Polymarket Copy-Trading Bot",
+        "preview": "Multi-platform copy-trading bot with SaaS architecture. Paper trade first, then live. $500 test capital allocated.",
+        "full_content": "Build spec: ~/.openclaw/agents/BUILDER/tasks/polymarket-bot-spec.md\n\nWHAT IT DOES:\n• Scrapes Polymarket leaderboard for top traders\n• Monitors their trades in real-time\n• Automatically copies trades to your wallet\n• Tracks P&L and win rate\n• Runs on loop every few minutes\n\nKEY FEATURES:\n• Multi-platform (Polymarket + Kalshi + Betfair)\n• Advanced trader scoring (Sharpe ratio, consistency)\n• Smart position sizing (Kelly Criterion)\n• Risk management (stop-losses, daily limits)\n• SaaS-ready from day 1 (multi-tenant)\n\nREVENUE MODEL:\n• Personal trading: $2K-10K/year\n• SaaS: $41K ARR @ 50 users ($69/month)\n• Referral fees: 0.02-0.1% per trade\n\nBUILD PHASES:\n1. Core engine (API + scoring) - Day 1-2\n2. Execution (wallet + trades) - Day 2-3\n3. SaaS shell (auth + billing) - Day 3-4\n4. Polish (alerts + analytics) - Day 4-5\n\nBUDGET: $500 test capital (paper trade first)",
+        "created_at": "2026-04-07T19:25:00Z",
+        "agent": "BUILDER",
+        "status": "approved",
+        "priority": "P1",
+        "budget": "$500 test capital",
+        "on_approve": "BUILDER starts immediately, 48-hour delivery target"
+      }
+    ],
+    "finance": [],
+    "analysis": [
+      {
+        "id": "analysis-missed-call-ai-001",
+        "type": "analysis",
+        "title": "AI Missed Call Text-Back Agent",
+        "preview": "$500-2K/month per client. AI texts missed calls, books appointments. 57% of sales go to first responder.",
+        "full_content": "Full analysis: ~/.openclaw/agents/RESEARCH/analysis/missed-call-ai-agent-opportunity.md\n\nOPPORTUNITY:\n• 57% of sales go to first responder\n• Most small businesses miss calls → voicemail → no callback\n• AI solution: Natural SMS conversation → appointment booking\n\nREVENUE:\n• $500-2K/month per client\n• 10 clients = $10K MRR\n• Setup fee: $500-1,000\n\nDOG FOODING STRATEGY:\nUse ringless voicemail to find prospects → when they call back, AI texts them → book appointment → sell them the system they just experienced\n\nIMPLEMENTATION:\nPhase 1: Twilio + OpenAI MVP (Week 1)\nPhase 2: GoHighLevel integration (Week 2)\nPhase 3: Client acquisition (Week 3-4)\nPhase 4: Scale to 10+ clients (Month 2)\n\nDECISION NEEDED: Custom build or GoHighLevel platform?",
+        "created_at": "2026-04-07T21:10:00Z",
+        "agent": "RESEARCH",
+        "status": "approved",
+        "priority": "P1",
+        "file_path": "~/.openclaw/agents/RESEARCH/analysis/missed-call-ai-agent-opportunity.md",
+        "on_approve": "BUILDER creates MVP, SCOUT identifies pilot businesses",
+        "approved_at": "2026-04-08T03:47:25.691Z"
+      }
+    ],
+    "total_pending": 8
+  },
+  "notifications": [
+    {
+      "id": "notif-001",
+      "type": "approval_needed",
+      "title": "6 Content Items Pending Approval",
+      "message": "CONTENT agent has drafted 3 tweets and 3 LinkedIn posts ready for review",
+      "created_at": "2026-04-07T13:44:32Z",
+      "read": false,
+      "action_required": true
+    },
+    {
+      "id": "notif-004",
+      "type": "analysis_ready",
+      "title": "New Analysis: AI Missed Call Agent",
+      "message": "RESEARCH completed analysis of YouTube video. $500-2K/month per client opportunity. Review in Mission Control.",
+      "created_at": "2026-04-07T21:10:00Z",
+      "read": false,
+      "action_required": true
+    }
+  ],
+  "last_updated": "2026-04-08T11:35:00Z"
+}

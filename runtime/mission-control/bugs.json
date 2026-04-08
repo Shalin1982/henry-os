@@ -1,0 +1,18 @@
+[
+  {"id": "BUG-001", "page": "Dashboard", "issue": "Activity feed does not update in real-time via SSE", "severity": "P1", "status": "DEFERRED"},
+  {"id": "BUG-002", "page": "Tasks", "issue": "Drag and drop not implemented", "severity": "P1", "status": "FIXED"},
+  {"id": "BUG-003", "page": "Tasks", "issue": "New task button opens no form", "severity": "P1", "status": "FIXED"},
+  {"id": "BUG-004", "page": "Pipeline", "issue": "Proposal draft view button not implemented", "severity": "P2", "status": "OPEN"},
+  {"id": "BUG-005", "page": "Memory", "issue": "No deduplication logic implemented", "severity": "P1", "status": "FIXED"},
+  {"id": "BUG-006", "page": "Memory", "issue": "Search not debounced", "severity": "P2", "status": "FIXED"},
+  {"id": "BUG-007", "page": "Activity", "issue": "No real-time updates", "severity": "P2", "status": "DEFERRED"},
+  {"id": "BUG-008", "page": "Activity", "issue": "Export to CSV not implemented", "severity": "P2", "status": "OPEN"},
+  {"id": "BUG-009", "page": "Email", "issue": "Reply buttons not functional", "severity": "P1", "status": "OPEN"},
+  {"id": "BUG-010", "page": "Email", "issue": "Bulk select checkbox does nothing", "severity": "P2", "status": "OPEN"},
+  {"id": "BUG-011", "page": "Costs", "issue": "Budget edits don't save to state.json", "severity": "P1", "status": "FIXED"},
+  {"id": "BUG-012", "page": "Settings", "issue": "HEARTBEAT.md editor not implemented", "severity": "P1", "status": "FIXED"},
+  {"id": "BUG-013", "page": "Settings", "issue": "Model dropdowns don't save", "severity": "P1", "status": "FIXED"},
+  {"id": "BUG-014", "page": "Calendar", "issue": "Week/Month/List toggle not implemented", "severity": "P2", "status": "OPEN"},
+  {"id": "BUG-015", "page": "Global", "issue": "No POST/PUT endpoints for mutations", "severity": "P0", "status": "FIXED"},
+  {"id": "BUG-016", "page": "Global", "issue": "No SSE endpoint for real-time updates", "severity": "P1", "status": "DEFERRED"}
+]

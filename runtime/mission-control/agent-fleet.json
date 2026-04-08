@@ -1,0 +1,59 @@
+{
+  "timestamp": "2026-04-07T11:30:00Z",
+  "system": "Henry OS Agent Fleet",
+  "version": "2.0",
+  "agents": {
+    "SCOUT": {
+      "status": "starting",
+      "role": "Market Intelligence",
+      "last_heartbeat": null,
+      "tasks_completed": 0
+    },
+    "BUILDER": {
+      "status": "starting", 
+      "role": "Software Development",
+      "last_heartbeat": null,
+      "tasks_completed": 0
+    },
+    "CONTENT": {
+      "status": "starting",
+      "role": "Social Media & Content",
+      "last_heartbeat": null,
+      "tasks_completed": 0
+    },
+    "RESEARCH": {
+      "status": "starting",
+      "role": "Intelligence Gathering",
+      "last_heartbeat": null,
+      "tasks_completed": 0
+    },
+    "AXEL": {
+      "status": "starting",
+      "role": "Finance Department",
+      "last_heartbeat": null,
+      "tasks_completed": 0
+    },
+    "KNOX": {
+      "status": "starting",
+      "role": "Security & Monitoring",
+      "last_heartbeat": null,
+      "tasks_completed": 0
+    }
+  },
+  "orchestrator": {
+    "status": "active",
+    "last_run": null,
+    "next_run": null
+  },
+  "approvals": {
+    "content": {
+      "pending": 0,
+      "last_update": null
+    },
+    "code": {
+      "pending": 0,
+      "last_update": null
+    }
+  },
+  "notifications": []
+}
